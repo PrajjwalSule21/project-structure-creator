@@ -118,3 +118,9 @@ def project_structure_creator():
 """
 This command I drop for just practice purpose.
 """
+
+def add(a,b):
+    """
+    This function add twp variables
+    """
+    return a+b
