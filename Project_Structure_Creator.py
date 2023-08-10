@@ -118,5 +118,3 @@ def project_structure_creator():
 """
 This command I drop for just practice purpose.
 """
-def add():
-    pass
