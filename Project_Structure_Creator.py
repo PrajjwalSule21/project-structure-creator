@@ -113,3 +113,8 @@ def project_structure_creator():
     pipe_filenames = ['__init__.py', 'predict_pipeline.py', 'train_pipeline.py']
     for filename in pipe_filenames:
         pipeline_files = open(filename, 'x')
+
+
+"""
+This command I drop for just practice purpose.
+"""
